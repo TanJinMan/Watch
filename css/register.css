@@ -1,0 +1,115 @@
+.W_main_head {
+	width: 990px;
+	height: 115px;
+	margin: 0 auto;
+	line-height: 13;
+}
+
+.W_main_box {
+	width: 990px;
+	height: 600px;
+	background: white;
+	margin: 0 auto;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.W_main_box div {
+	position: relative;
+}
+
+.W_main_box h5 {
+	font-weight: 400;
+	font-size: 28px;
+	color: #000;
+	padding-bottom: 30px;
+	text-align: center;
+	line-height: 110px;
+}
+
+.content_box {
+	width: 500px;
+	height: 400px;
+	margin: 0 auto;
+	/*background: sandybrown;*/
+}
+
+.content_box input {
+	width: 301px;
+	height: 38px;
+	line-height: 38px;
+	border: 1px solid #e8e8e8;
+	font-size: 12px;
+	background-color: transparent;
+	padding-left: 35px;
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.content_box i {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.content_box input:nth-child(3) {
+	width: 200px;
+}
+
+.wenzi {
+	width: 183px;
+	font-size: 10px;
+	color: #d00000;
+	margin-top: 8px;
+	display: block;
+	font-weight: 700;
+	margin-bottom: 8px;
+	position: absolute;
+	right: -35px;
+}
+
+#register {
+	width: 337px;
+	height: 38px;
+	font-size: 14px;
+	background: #b32424;
+	color: #fff;
+	border: 0;
+	border-radius: 2px;
+	display: block;
+	margin: 35px auto 0;
+	line-height: 38px;
+	text-align: center;
+}
+
+.auth_code {
+	display: inline-block;
+	width: 98px;
+	height: 40px;
+	background: seagreen;
+	position: absolute;
+	font-size: 30px;
+}
+
+.content_box div .auth_code {
+	display: inline-block;
+	font-size: 16px;
+	line-height: 35px;
+	text-align: center;
+	letter-spacing: 13px
+}
+
+.content_box div .error {
+	position: absolute;
+	top: 13px;
+	right: -90px;
+	font-size: 12px;
+}
+
+.content_box div .correct {
+	position: absolute;
+	top: 11px;
+	right: 20px;
+	font-size: 12px;
+	
+}

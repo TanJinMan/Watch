@@ -1,0 +1,11 @@
+*{margin: 0;  padding: 0;}
+ul,li,ol,dl,dt,dd {list-style: none;}
+button{cursor: pointer;}
+a{text-decoration: none; }
+a{display: inline-block;cursor: pointer;}
+img{cursor: pointer;}
+button{cursor: pointer;}
+a{color: #000000;}
+ body {width: 100%;height: 100%;margin: 0px;padding: 0px;}
+
+

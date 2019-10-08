@@ -1,0 +1,102 @@
+h5 {
+	width: 1000px;
+	height: 75px;
+	margin: 0 auto;
+	/*background: sandybrown;*/
+	margin-top: 40px;
+}
+
+.W_main_content {
+	width: 1903px;
+	height: 580px;
+	background: #851a1a;
+	margin-top: 30px;
+	overflow: hidden;
+	position: relative;
+}
+
+.W_login_mark {
+	width: 390px;
+	height: 400px;
+	background: white;
+	position: absolute;
+	top: 15%;
+	left: 19%;
+}
+
+.userLogin_userRegister {
+	width: 269px;
+	height: 86px;
+	/*background: seagreen;*/
+	margin: 0 auto;
+	text-align: center;
+	line-height: 75px;
+	font-size: 20px;
+}
+
+.userLogin {
+	color: #cc5252;
+	font-weight: bold;
+}
+
+.codeLogin {
+	color: #C0C0C0;
+	font-weight: bold;
+}
+
+.member_login {
+	width: 100%;
+	/*height: 100%;*/
+	/*background: silver;*/
+	text-align: center;
+	margin-top: 30px;
+}
+
+.member_login input {
+	width: 285px;
+	height: 35px;
+	margin-bottom: 20px;
+}
+
+.wenzi {
+	width: 116px;
+	font-size: 10px;
+	color: #d00000;
+	margin-top: 5px;
+	display: block;
+	font-weight: 700;
+	margin-bottom: 5px;
+	/*display: none;*/
+}
+
+.login {
+	width: 289px;
+	height: 38px;
+	font-size: 14px;
+	background: #b32424;
+	color: #fff;
+	border: 0;
+	border-radius: 2px;
+	display: block;
+	margin: 20px auto 0;
+	line-height: 38px;
+	text-align: center;
+}
+
+#W_pt_footer {
+	width: 640px;
+	height: 161px;
+	margin: 0 auto;
+	/*background: seashell;*/
+	margin-top: 80px;
+	/*margin-bottom: 50px;*/
+	text-align: center;
+}
+
+#W_pt_footer p {
+	/*display: block;*/
+	text-align: center;
+	font-size: 12px;
+	color: #999;
+	line-height: 25px;
+}
